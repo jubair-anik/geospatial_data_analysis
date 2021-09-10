@@ -12,3 +12,5 @@ https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggreg
 - folium (version 0.11.0)
 - geopy (version 2.1.0)
 - plotly (version 4.14.1)
+- matplotlib (version 3.2.2)
+- seaborn (version 0.11.1)
